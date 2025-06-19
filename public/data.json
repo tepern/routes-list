@@ -1,0 +1,65 @@
+[
+  {
+    "uuid": "128daf08-4e42-4f26-ba09-81796cfb0d84",
+    "address": "0.0.0.0",
+    "mask": "0.0.0.0",
+    "gateway": "192.168.1.1",
+    "interface": "192.168.1.100"
+  },
+  {
+    "uuid": "47c82e53-6647-4a06-96e8-1061b888fb39",
+    "address": "127.0.0.0",
+    "mask": "255.0.0.0",
+    "gateway": "On-link",
+    "interface": "127.0.0.1"
+  },
+  {
+    "uuid": "ce18045b-7b1e-486e-bdc0-d49fd938df0a",
+    "address": "127.0.0.1",
+    "mask": "255.255.255.255",
+    "gateway": "On-link",
+    "interface": "127.0.0.1"
+  },
+  {
+    "uuid": "4711d034-24a6-4c34-95f8-81f59084103c",
+    "address": "127.255.255.255",
+    "mask": "255.255.255.255",
+    "gateway": "On-link",
+    "interface": "127.0.0.1"
+  },
+  {
+    "uuid": "7f796d59-e9be-442f-9b96-dc952ac1314e",
+    "address": "192.168.1.0",
+    "mask": "255.255.255.0",
+    "gateway": "On-link",
+    "interface": "192.168.1.100"
+  },
+  {
+    "uuid": "b4734693-3758-4463-aed3-f50fcda0bce2",
+    "address": "192.168.1.100",
+    "mask": "255.255.255.255",
+    "gateway": "On-link",
+    "interface": "192.168.1.100"
+  },
+  {
+    "uuid": "580b9ba6-e696-42db-9bab-328746a7106e",
+    "address": "192.168.1.255",
+    "mask": "255.255.255.255",
+    "gateway": "On-link",
+    "interface": "192.168.1.100"
+  },
+  {
+    "uuid": "1d231e48-fd51-4306-92b8-315923b9f3f6",
+    "address": "244.0.0.0",
+    "mask": "244.0.0.0",
+    "gateway": "On-link",
+    "interface": "127.0.0.1"
+  },
+  {
+    "uuid": "6f8a4838-f967-46e9-bb0a-d5e0ec4b3134",
+    "address": "244.0.0.0",
+    "mask": "244.0.0.0",
+    "gateway": "On-link",
+    "interface": "192.168.1.100"
+  }
+]
