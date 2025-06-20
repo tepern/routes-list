@@ -1,0 +1,11 @@
+.container {
+  margin: 50px;
+
+  @media (max-width: 492px) {
+    margin: initial;
+  }
+}
+
+list-table {
+  width: 100%;
+}
